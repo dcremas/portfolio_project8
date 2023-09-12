@@ -11,6 +11,15 @@
 - Using SQL to develop analytics-ready database views.
 
 ##### How to use:
+
+###### Write-up Create a write-up that explains your development process. Since this is a project for your portfolio, include **why** you made certain decisions, to demonstrate your thought process as well as your technical skills.
+
+Some prompts to get you started:
+
+- what data cleaning or transformation decisions did you make?
+- how did you decide what tables would exist in the relational database?
+- what views did you create, and how do you anticipate them being useful to analysts?
+
 ##### Technologies:
 
 1. Pandas
@@ -27,4 +36,4 @@ Me.
 
 *Link to my github account to see the full codebase for this project:*
 
-https://github.com/dcremas/portfolio_project8
+[]: https://github.com/dcremas/portfolio_project8(	"git hub account"
