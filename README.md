@@ -18,4 +18,13 @@
 3. Knowledge of data cleaning.
 
 ##### Collaborators:
+
+Me.
+
 ##### License:
+
+
+
+*Link to my github account to see the full codebase for this project:*
+
+https://github.com/dcremas/portfolio_project8
