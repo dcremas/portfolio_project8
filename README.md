@@ -36,5 +36,5 @@ Me.
 
 *To see the full codebase for this project:*
 
-[Link to my github account](https://dcremas.github.io/portfolio_project8)
+[Link to my github account](https://github.com/dcremas/portfolio_project8)
 
